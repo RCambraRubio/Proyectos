@@ -1,0 +1,10 @@
+{
+  "start_date": "2022-01-01",
+  "end_date": null,
+  "availability_lag_days": 5,
+  "forecast_days": 28,
+  "aemet_stations": ["3195", "0076", "8416", "5783", "9434", "1428", "C029O", "B278"],
+  "validation_days": 28,
+  "test_days": 28,
+  "seed": 42
+}

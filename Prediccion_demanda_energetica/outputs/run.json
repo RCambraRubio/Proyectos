@@ -1,0 +1,120 @@
+{
+  "created_at": "2026-09-09T13:25:23.056552+00:00",
+  "winner": "seasonal_naive",
+  "config": {
+    "start_date": "2022-01-01",
+    "end_date": null,
+    "availability_lag_days": 5,
+    "forecast_days": 28,
+    "aemet_stations": [
+      "3195",
+      "0076",
+      "8416",
+      "5783",
+      "9434",
+      "1428",
+      "C029O",
+      "B278"
+    ],
+    "validation_days": 28,
+    "test_days": 28,
+    "seed": 42
+  },
+  "forecast_origin": "2026-09-04",
+  "horizon_days": 28,
+  "forecast_start": "2026-09-10",
+  "forecast_end": "2026-10-07",
+  "gap_days": 5,
+  "recursive_steps": 33,
+  "validation_start": "2026-07-11",
+  "test_start": "2026-08-08",
+  "evaluation": "Bloques completos de 28 días desde el último dato de cada origen; selección solo por validación. El pronóstico actual puede requerir pasos adicionales por retraso de los datos",
+  "exogenous_scenario": "Temperatura constante desde el último valor disponible; no son previsiones meteorológicas.",
+  "warnings": [
+    {
+      "model": "seasonal_naive",
+      "split": "validation",
+      "message": "The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead."
+    },
+    {
+      "model": "seasonal_naive",
+      "split": "test",
+      "message": "The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead."
+    },
+    {
+      "model": "sarima",
+      "split": "validation",
+      "message": "Setting the shape on a NumPy array has been deprecated in NumPy 2.5.\nAs an alternative, you can create a new view using np.reshape (with copy=False if needed)."
+    },
+    {
+      "model": "sarima",
+      "split": "validation",
+      "message": "The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead."
+    },
+    {
+      "model": "sarima",
+      "split": "test",
+      "message": "Setting the shape on a NumPy array has been deprecated in NumPy 2.5.\nAs an alternative, you can create a new view using np.reshape (with copy=False if needed)."
+    },
+    {
+      "model": "sarima",
+      "split": "test",
+      "message": "The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead."
+    },
+    {
+      "model": "holt_winters",
+      "split": "validation",
+      "message": "The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead."
+    },
+    {
+      "model": "holt_winters",
+      "split": "test",
+      "message": "The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead."
+    },
+    {
+      "model": "ridge",
+      "split": "validation",
+      "message": "The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead."
+    },
+    {
+      "model": "ridge",
+      "split": "test",
+      "message": "The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead."
+    },
+    {
+      "model": "random_forest",
+      "split": "validation",
+      "message": "The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead."
+    },
+    {
+      "model": "random_forest",
+      "split": "test",
+      "message": "The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead."
+    },
+    {
+      "model": "gradient_boosting",
+      "split": "validation",
+      "message": "The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead."
+    },
+    {
+      "model": "gradient_boosting",
+      "split": "test",
+      "message": "The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead."
+    },
+    {
+      "model": "mlp",
+      "split": "validation",
+      "message": "The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead."
+    },
+    {
+      "model": "mlp",
+      "split": "test",
+      "message": "The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead."
+    },
+    {
+      "model": "seasonal_naive",
+      "split": "final_fit",
+      "message": "The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead."
+    }
+  ]
+}

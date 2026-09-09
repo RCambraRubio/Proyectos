@@ -1,0 +1,33 @@
+{
+  "rows": 1708,
+  "start": "2022-01-01",
+  "end": "2026-09-04",
+  "missing": {
+    "demand_mwh": 0,
+    "temp_c": 0,
+    "stations_available": 0
+  },
+  "sources": [
+    "ree",
+    "aemet"
+  ],
+  "config": {
+    "start_date": "2022-01-01",
+    "end_date": null,
+    "availability_lag_days": 5,
+    "forecast_days": 28,
+    "aemet_stations": [
+      "3195",
+      "0076",
+      "8416",
+      "5783",
+      "9434",
+      "1428",
+      "C029O",
+      "B278"
+    ],
+    "validation_days": 28,
+    "test_days": 28,
+    "seed": 42
+  }
+}
