@@ -1,0 +1,427 @@
+[
+  {
+    "id": "A001",
+    "grupo": "A",
+    "puntuacion": 67.91
+  },
+  {
+    "id": "A002",
+    "grupo": "A",
+    "puntuacion": 60.56
+  },
+  {
+    "id": "A003",
+    "grupo": "A",
+    "puntuacion": 57.83
+  },
+  {
+    "id": "A004",
+    "grupo": "A",
+    "puntuacion": 80.91
+  },
+  {
+    "id": "A005",
+    "grupo": "A",
+    "puntuacion": 56.71
+  },
+  {
+    "id": "A006",
+    "grupo": "A",
+    "puntuacion": 59.87
+  },
+  {
+    "id": "A007",
+    "grupo": "A",
+    "puntuacion": 55.01
+  },
+  {
+    "id": "A008",
+    "grupo": "A",
+    "puntuacion": 61.82
+  },
+  {
+    "id": "A009",
+    "grupo": "A",
+    "puntuacion": 64.04
+  },
+  {
+    "id": "A010",
+    "grupo": "A",
+    "puntuacion": 63.63
+  },
+  {
+    "id": "A011",
+    "grupo": "A",
+    "puntuacion": 58.45
+  },
+  {
+    "id": "A012",
+    "grupo": "A",
+    "puntuacion": 70.17
+  },
+  {
+    "id": "A013",
+    "grupo": "A",
+    "puntuacion": 63.8
+  },
+  {
+    "id": "A014",
+    "grupo": "A",
+    "puntuacion": 66.57
+  },
+  {
+    "id": "A015",
+    "grupo": "A",
+    "puntuacion": 46.91
+  },
+  {
+    "id": "A016",
+    "grupo": "A",
+    "puntuacion": 58.55
+  },
+  {
+    "id": "A017",
+    "grupo": "A",
+    "puntuacion": 46.53
+  },
+  {
+    "id": "A018",
+    "grupo": "A",
+    "puntuacion": 60.34
+  },
+  {
+    "id": "A019",
+    "grupo": "A",
+    "puntuacion": 44.62
+  },
+  {
+    "id": "A020",
+    "grupo": "A",
+    "puntuacion": 69.09
+  },
+  {
+    "id": "A021",
+    "grupo": "A",
+    "puntuacion": 47.96
+  },
+  {
+    "id": "A022",
+    "grupo": "A",
+    "puntuacion": 61.6
+  },
+  {
+    "id": "A023",
+    "grupo": "A",
+    "puntuacion": 64.62
+  },
+  {
+    "id": "A024",
+    "grupo": "A",
+    "puntuacion": 52.57
+  },
+  {
+    "id": "A025",
+    "grupo": "A",
+    "puntuacion": 64.06
+  },
+  {
+    "id": "A026",
+    "grupo": "A",
+    "puntuacion": 61.89
+  },
+  {
+    "id": "A027",
+    "grupo": "A",
+    "puntuacion": 54.07
+  },
+  {
+    "id": "A028",
+    "grupo": "A",
+    "puntuacion": 66.58
+  },
+  {
+    "id": "A029",
+    "grupo": "A",
+    "puntuacion": 59.23
+  },
+  {
+    "id": "A030",
+    "grupo": "A",
+    "puntuacion": 64.15
+  },
+  {
+    "id": "A031",
+    "grupo": "A",
+    "puntuacion": 71.77
+  },
+  {
+    "id": "A032",
+    "grupo": "A",
+    "puntuacion": 74.37
+  },
+  {
+    "id": "A033",
+    "grupo": "A",
+    "puntuacion": 63.49
+  },
+  {
+    "id": "A034",
+    "grupo": "A",
+    "puntuacion": 61.98
+  },
+  {
+    "id": "A035",
+    "grupo": "A",
+    "puntuacion": 61.99
+  },
+  {
+    "id": "A036",
+    "grupo": "A",
+    "puntuacion": 65.95
+  },
+  {
+    "id": "A037",
+    "grupo": "A",
+    "puntuacion": 60.85
+  },
+  {
+    "id": "A038",
+    "grupo": "A",
+    "puntuacion": 52.13
+  },
+  {
+    "id": "A039",
+    "grupo": "A",
+    "puntuacion": 48.13
+  },
+  {
+    "id": "A040",
+    "grupo": "A",
+    "puntuacion": 51.9
+  },
+  {
+    "id": "B001",
+    "grupo": "B",
+    "puntuacion": 61.86
+  },
+  {
+    "id": "B002",
+    "grupo": "B",
+    "puntuacion": 73.97
+  },
+  {
+    "id": "B003",
+    "grupo": "B",
+    "puntuacion": 73.29
+  },
+  {
+    "id": "B004",
+    "grupo": "B",
+    "puntuacion": 63.5
+  },
+  {
+    "id": "B005",
+    "grupo": "B",
+    "puntuacion": 67.27
+  },
+  {
+    "id": "B006",
+    "grupo": "B",
+    "puntuacion": 77.42
+  },
+  {
+    "id": "B007",
+    "grupo": "B",
+    "puntuacion": 48.54
+  },
+  {
+    "id": "B008",
+    "grupo": "B",
+    "puntuacion": 78.85
+  },
+  {
+    "id": "B009",
+    "grupo": "B",
+    "puntuacion": 73.25
+  },
+  {
+    "id": "B010",
+    "grupo": "B",
+    "puntuacion": 66.7
+  },
+  {
+    "id": "B011",
+    "grupo": "B",
+    "puntuacion": 93.01
+  },
+  {
+    "id": "B012",
+    "grupo": "B",
+    "puntuacion": 61.16
+  },
+  {
+    "id": "B013",
+    "grupo": "B",
+    "puntuacion": 67.14
+  },
+  {
+    "id": "B014",
+    "grupo": "B",
+    "puntuacion": 67.22
+  },
+  {
+    "id": "B015",
+    "grupo": "B",
+    "puntuacion": 56.13
+  },
+  {
+    "id": "B016",
+    "grupo": "B",
+    "puntuacion": 77.31
+  },
+  {
+    "id": "B017",
+    "grupo": "B",
+    "puntuacion": 60.49
+  },
+  {
+    "id": "B018",
+    "grupo": "B",
+    "puntuacion": 52.76
+  },
+  {
+    "id": "B019",
+    "grupo": "B",
+    "puntuacion": 61.49
+  },
+  {
+    "id": "B020",
+    "grupo": "B",
+    "puntuacion": 76.16
+  },
+  {
+    "id": "B021",
+    "grupo": "B",
+    "puntuacion": 54.53
+  },
+  {
+    "id": "B022",
+    "grupo": "B",
+    "puntuacion": 56.47
+  },
+  {
+    "id": "B023",
+    "grupo": "B",
+    "puntuacion": 66.44
+  },
+  {
+    "id": "B024",
+    "grupo": "B",
+    "puntuacion": 53.44
+  },
+  {
+    "id": "B025",
+    "grupo": "B",
+    "puntuacion": 77.86
+  },
+  {
+    "id": "B026",
+    "grupo": "B",
+    "puntuacion": 59.51
+  },
+  {
+    "id": "B027",
+    "grupo": "B",
+    "puntuacion": 74.31
+  },
+  {
+    "id": "B028",
+    "grupo": "B",
+    "puntuacion": 65.75
+  },
+  {
+    "id": "B029",
+    "grupo": "B",
+    "puntuacion": 59.86
+  },
+  {
+    "id": "B030",
+    "grupo": "B",
+    "puntuacion": 66.0
+  },
+  {
+    "id": "B031",
+    "grupo": "B",
+    "puntuacion": 82.59
+  },
+  {
+    "id": "B032",
+    "grupo": "B",
+    "puntuacion": 66.51
+  },
+  {
+    "id": "B033",
+    "grupo": "B",
+    "puntuacion": 59.16
+  },
+  {
+    "id": "B034",
+    "grupo": "B",
+    "puntuacion": 70.79
+  },
+  {
+    "id": "B035",
+    "grupo": "B",
+    "puntuacion": 76.48
+  },
+  {
+    "id": "B036",
+    "grupo": "B",
+    "puntuacion": 66.95
+  },
+  {
+    "id": "B037",
+    "grupo": "B",
+    "puntuacion": 59.75
+  },
+  {
+    "id": "B038",
+    "grupo": "B",
+    "puntuacion": 53.69
+  },
+  {
+    "id": "B039",
+    "grupo": "B",
+    "puntuacion": 69.43
+  },
+  {
+    "id": "B040",
+    "grupo": "B",
+    "puntuacion": 71.79
+  },
+  {
+    "id": "B041",
+    "grupo": "B",
+    "puntuacion": 77.85
+  },
+  {
+    "id": "B042",
+    "grupo": "B",
+    "puntuacion": 65.71
+  },
+  {
+    "id": "B043",
+    "grupo": "B",
+    "puntuacion": 33.24
+  },
+  {
+    "id": "B044",
+    "grupo": "B",
+    "puntuacion": 50.27
+  },
+  {
+    "id": "B045",
+    "grupo": "B",
+    "puntuacion": 60.1
+  }
+]
